@@ -18,15 +18,19 @@ Before running the script, ensure you have:
     ```bash
     cd Solana-pumpfun-Trading-Bot-main
     ```
-3. Install dependencies:
-   - un zip  src.zip
+3. un zip:    
+    ```bash
+    un zip  src.zip
+     ```
+4. Install dependencies:
     ```bash
     npm install
     ```
-4. Configure the environment variables:
+ 
+5. Configure the environment variables:
    - Rename `.env.copy` to `.env` and update it with your details.
 
-5. Start the bot:
+6. Start the bot:
     ```bash
     npm run start
     ```
