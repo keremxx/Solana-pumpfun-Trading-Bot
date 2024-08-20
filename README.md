@@ -16,7 +16,7 @@ Before running the script, ensure you have:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd pumpfun-cook
+    cd Solana-pumpfun-Trading-Bot
     ```
 3. Install dependencies:
     ```bash
