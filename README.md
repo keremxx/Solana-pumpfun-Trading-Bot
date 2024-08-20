@@ -1,4 +1,4 @@
-# Pumpfun-cook Bot
+# Solana-pumpfun-Trading-Bot
 The Solana-pumpfun-Trading-Bot is a tool designed to automate the monitoring, buying, and selling of tokens on the pump.fun platform in the Solana blockchain. It executes trades based on predefined parameters and strategies set by the user.
 The bot finds new token, checks for filters (if set), buys the token, adds the bought token to assets.txt, and sells them by checking for profit/loss.
 
