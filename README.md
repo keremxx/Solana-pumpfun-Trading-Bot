@@ -19,6 +19,7 @@ Before running the script, ensure you have:
     cd Solana-pumpfun-Trading-Bot-main
     ```
 3. Install dependencies:
+   - un zip  src.zip
     ```bash
     npm install
     ```
