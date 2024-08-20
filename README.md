@@ -1,5 +1,5 @@
 # Pumpfun-cook Bot
-The Pumpfun-cook Bot is a tool designed to automate the monitoring, buying, and selling of tokens on the pump.fun platform in the Solana blockchain. It executes trades based on predefined parameters and strategies set by the user.
+The Solana-pumpfun-Trading-Bot is a tool designed to automate the monitoring, buying, and selling of tokens on the pump.fun platform in the Solana blockchain. It executes trades based on predefined parameters and strategies set by the user.
 The bot finds new token, checks for filters (if set), buys the token, adds the bought token to assets.txt, and sells them by checking for profit/loss.
 
 ## Prerequisites
@@ -12,7 +12,7 @@ Before running the script, ensure you have:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/oneplusfive555/pumpfun-cook.git
+    git clone https://github.com/keremxx/Solana-pumpfun-Trading-Bot.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -34,7 +34,7 @@ Before running the script, ensure you have:
 
     ```
     ============================================================
-                        Pumpfun-cook Bot! 🚀
+                        Solana-pumpfun-Trading-Bot! 🚀
     ============================================================
     
     ```
@@ -108,11 +108,5 @@ Before running the script, ensure you have:
 
 ## Disclaimer
 
-The Pumpfun-cook Bot is provided "as is" for educational purposes. Trading cryptocurrencies and tokens involves risk, and past performance is not indicative of future results. The use of this bot is at your own risk, and the developers are not responsible for any losses incurred.
+The Solana-pumpfun-Trading-Bot is provided "as is" for educational purposes. Trading cryptocurrencies and tokens involves risk, and past performance is not indicative of future results. The use of this bot is at your own risk, and the developers are not responsible for any losses incurred.
 
-You are not permitted to sell, distribute, or otherwise use this software for commercial purposes. Modifications are allowed, but the software must remain free for all users. Any violation of this clause will result in a breach of the license agreement.
-
-## contact 
-telegram: t.me/k0rela
-discord : @bokxa  
-**If you want to leave a tip, you can send it to the following address: 8vJbsGogF3miHRt8YG2pmyW8c1NVHAXF1SAGKsg9zkFp**
